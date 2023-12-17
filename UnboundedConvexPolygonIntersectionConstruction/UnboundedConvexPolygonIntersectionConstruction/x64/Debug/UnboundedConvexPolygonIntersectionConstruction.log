@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\acer\source\repos\UnboundedConvexPolygonIntersectionConstruction\UnboundedConvexPolygonIntersectionConstruction\UnboundedConvexPolygonIntersectionConstruction.h(81,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\UnboundedConvexPolygonIntersectionConstruction\UnboundedConvexPolygonIntersectionConstruction\UnboundedConvexPolygonIntersectionConstruction.h(282): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\UnboundedConvexPolygonIntersectionConstruction\UnboundedConvexPolygonIntersectionConstruction\UnboundedConvexPolygonIntersectionConstruction.h(284,1): warning C4267: “=”: 从“size_t”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\acer\source\repos\UnboundedConvexPolygonIntersectionConstruction\UnboundedConvexPolygonIntersectionConstruction\UnboundedConvexPolygonIntersectionConstruction.h(302): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\UnboundedConvexPolygonIntersectionConstruction\UnboundedConvexPolygonIntersectionConstruction\UnboundedConvexPolygonIntersectionConstruction.h(304,1): warning C4267: “=”: 从“size_t”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\acer\source\repos\UnboundedConvexPolygonIntersectionConstruction\UnboundedConvexPolygonIntersectionConstruction\main.cpp(56): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  UnboundedConvexPolygonIntersectionConstruction.vcxproj -> C:\Users\acer\source\repos\UnboundedConvexPolygonIntersectionConstruction\x64\Debug\UnboundedConvexPolygonIntersectionConstruction.exe

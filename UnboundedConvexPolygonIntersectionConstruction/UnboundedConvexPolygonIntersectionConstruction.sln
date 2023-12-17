@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnboundedConvexPolygonIntersectionConstruction", "UnboundedConvexPolygonIntersectionConstruction\UnboundedConvexPolygonIntersectionConstruction.vcxproj", "{85D9F4C5-9DB4-43FF-AFD9-2E4791CF3B26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85D9F4C5-9DB4-43FF-AFD9-2E4791CF3B26}.Debug|x64.ActiveCfg = Debug|x64
+		{85D9F4C5-9DB4-43FF-AFD9-2E4791CF3B26}.Debug|x64.Build.0 = Debug|x64
+		{85D9F4C5-9DB4-43FF-AFD9-2E4791CF3B26}.Debug|x86.ActiveCfg = Debug|Win32
+		{85D9F4C5-9DB4-43FF-AFD9-2E4791CF3B26}.Debug|x86.Build.0 = Debug|Win32
+		{85D9F4C5-9DB4-43FF-AFD9-2E4791CF3B26}.Release|x64.ActiveCfg = Release|x64
+		{85D9F4C5-9DB4-43FF-AFD9-2E4791CF3B26}.Release|x64.Build.0 = Release|x64
+		{85D9F4C5-9DB4-43FF-AFD9-2E4791CF3B26}.Release|x86.ActiveCfg = Release|Win32
+		{85D9F4C5-9DB4-43FF-AFD9-2E4791CF3B26}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ADFF9AD-C089-4F70-B312-929F7028D0D0}
+	EndGlobalSection
+EndGlobal
